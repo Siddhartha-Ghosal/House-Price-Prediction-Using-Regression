@@ -1,0 +1,9 @@
+Metric,Value
+Model Name,XGBoost
+R² Score,0.8921995759010315
+Validation RMSE,18517.383832496424
+Validation MAE,12381.275390625
+Cross-Validation RMSE Mean,18907.928515625
+Cross-Validation RMSE Std,1023.7150167630954
+Features,244
+Training Samples,1399

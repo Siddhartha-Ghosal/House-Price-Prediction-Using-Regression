@@ -1,0 +1,9 @@
+Metric,Value
+Total Rows (Train),1460
+Total Rows (Test),1459
+Total Features,81
+Numerical Features,38
+Categorical Features,43
+Features with Missing Values,19
+Average Sale Price,"$180,921.20"
+Median Sale Price,"$163,000.00"
