@@ -6,13 +6,13 @@ A comprehensive machine learning project to predict house prices using various r
 
 This project analyzes the Ames Housing dataset and builds predictive models to estimate house sale prices based on 79 different features including square footage, number of bedrooms, location, year built, and various amenities.
 
-## 👥 Team Members
+## Visualizations
 
-- **Member 1**: Project Lead & Data Collection
-- **Member 2**: Data Engineer & Preprocessing
-- **Member 3**: Data Scientist & Model Development
-- **Member 4**: ML Engineer & Model Evaluation
-- **Member 5**: Deployment & Documentation
+### Price Distribution
+![Price Distribution](visualizations/price_distribution.png)
 
-## 📁 Project Structure
+### Model Comparison
+![Model Comparison](visualizations/model_comparison_r2.png)
 
+### Prediction Results
+![Predicted vs Actual](visualizations/predicted_vs_actual.png)
